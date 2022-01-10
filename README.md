@@ -14,12 +14,12 @@ Kaggle Competition
 
 ### Steps
 
-  Exploratory Data Analysis
-  Feature Engineering
-  Finding Numerical and Non-numerical features.
-  Find features with NaN values.
-  Imputation
-  Feature Splitting
-  Feature Scaling
-  Categorical Encoding
-  Model Building
+  Exploratory Data Analysis<br/>
+  Feature Engineering<br/>
+  Finding Numerical and Non-numerical features.<br/>
+  Find features with NaN values.<br/>
+  Imputation<br/>
+  Feature Splitting<br/>
+  Feature Scaling<br/>
+  Categorical Encoding<br/>
+  Model Building<br/>
